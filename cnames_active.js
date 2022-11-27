@@ -107,6 +107,7 @@ var cnames_active = {
   "aghasemi": "aghasemi.github.io",
   "agilecards": "otaklapka.github.io/agilecards",
   "agma": "uwynell.github.io/agma.js",
+  "mhykoI": "linuxturkiye.gatsbyjs.io/",
   "agrawalnaman": "agrawalnaman.github.io",
   "agrawalrohit": "rohit0803.github.io/agrawal.github.io",
   "agros": "agrosjs.github.io",
